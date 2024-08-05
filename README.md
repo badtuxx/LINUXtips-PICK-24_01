@@ -87,7 +87,7 @@ Os alunos devem criar uma aplicação de gestão de senhas baseada no projeto [g
 
 2. **Formulários de Submissão:**
    - **Primeiro Formulário:** Aqui você realizará a sua inscrição no desafio e adicionará o seu perfil no LinkedIn e a URL do seu post sobre o desafio. Após o preenchimento, você receberá um e-mail com o segundo link.
-   - **Segundo Formulário:** No segundo link, você deverá fornecer o link do seu repositório GitHub com o projeto iniciado.
+   - **Segundo Formulário:** No segundo link, você deverá fornecer o link do seu repositório GitHub com o projeto iniciado. O nome do repo deverá ser LINUXtips-PICK.
    - **Terceiro Formulário:** Após receber o terceiro e-mail, preencha o formulário apenas quando finalizar o projeto.
    - **Quarto Formulário:** Use o quarto link para adicionar detalhes finais da sua conclusão, incluindo vídeos, palestras, ou demonstrações.
 
